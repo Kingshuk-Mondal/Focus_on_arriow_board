@@ -45,6 +45,8 @@ total_time = 180  # seconds (default 3 min)
 ### 2️⃣ Run with Python  
 If you want to run/edit the source code:  
 
+---
+
 ```bash
 # Clone the repository
 git clone https://github.com/Kingshuk-Mondal/Focus_on_arriow_board.git
