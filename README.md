@@ -16,6 +16,24 @@ It shows a **target board with 7 colored rings, crosshairs, and a red bullseye**
 
 ---
 
+## 🛠 Python Requirements  
+
+- Python **3.8+**  
+- `tkinter` (included with Python, no extra install needed)  
+
+---
+
+## ⚙️ Customization  
+
+The default timer is **3 minutes**.  
+
+If you want to change it, open `focus.py` and edit:  
+
+```python
+total_time = 180  # seconds (default 3 min)
+
+---
+
 ## 🚀 How to Use  
 
 ### 1️⃣ Simple Way (No Setup – Recommended)
@@ -32,25 +50,4 @@ If you want to run/edit the source code:
 git clone https://github.com/Kingshuk-Mondal/Focus_on_arriow_board.git
 cd Focus_on_arriow_board
 
-## 
 
-# Run with Python
-python focus.py
-
-## 🛠 Python Requirements  
-
-- Python **3.8+**  
-- `tkinter` (included with Python, no extra install needed)  
-
----
-
-## ⚙️ Customization  
-
-The default timer is **3 minutes**  
-
-If you want to change it, open `focus.py` and edit:  
-
-```python
-total_time = 180  # seconds (default 3 min)
-m version.
-The provided .exe always stays at 3 minutes by default.
