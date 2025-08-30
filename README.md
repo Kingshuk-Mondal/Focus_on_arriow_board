@@ -37,22 +37,20 @@ cd Focus_on_arriow_board
 # Run with Python
 python focus.py
 
-###
-🛠 Python Requirements
+## 🛠 Python Requirements  
 
-`Python 3.8+`
+- Python **3.8+**  
+- `tkinter` (included with Python, no extra install needed)  
 
-`tkinter` (included with Python, no extra install needed)
+---
 
-###
-⚙️ Customization
+## ⚙️ Customization  
 
-The default timer is 3 minutes
+The default timer is **3 minutes**  
 
-If you want to change it, open focus.py and edit:
+If you want to change it, open `focus.py` and edit:  
 
-`total_time = 180`  # seconds (default 3 min)
-
-
-⚠️ If you modify the .py, that’s your own custom version.
+```python
+total_time = 180  # seconds (default 3 min)
+m version.
 The provided .exe always stays at 3 minutes by default.
